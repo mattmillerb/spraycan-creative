@@ -1,16 +1,16 @@
 # Spraycan Creative
 
-> **Full-Service Creative Studio and Digital Experience Engineering**  
+> **Full-Service Creative Studio, High-Performance Web Engineering, and Physical Board Games**  
 > Official Website: **[https://spraycancreative.com](https://spraycancreative.com)**  
-> Interactive Gaming Division: **[https://spraycan.games](https://spraycan.games)**
+> Board Games Division: **[https://spraycan.games](https://spraycan.games)**
 
 ---
 
 ## About Spraycan Creative
 
-**[Spraycan Creative](https://spraycancreative.com)** is an Oklahoma-based full-service creative technology agency and brand development studio. We build bespoke digital experiences, high-performance web applications, authentic brand identities, and immersive interactive games.
+**[Spraycan Creative](https://spraycancreative.com)** is an Oklahoma-based full-service creative technology agency and brand development studio. We build bespoke digital experiences, high-performance web applications, authentic brand identities, and physical tabletop board games.
 
-### Core Capabilities and Engineering Services
+### Core Capabilities and Services
 
 1. **Bespoke Web Design and Development**
    - High-performance web development with clean DOM architectures and zero bloat.
@@ -18,15 +18,15 @@
    - Ultra-fast headless static builds, responsive layouts, and modern web application development.
    - Learn more at **[spraycancreative.com](https://spraycancreative.com)**.
 
-2. **Interactive Digital Applications and Game Engineering**
-   - 2D/3D interactive web experiences, game cards, and digital tabletop simulators.
-   - **Flagship Project: [Woven Adventures](https://spraycan.games/play/)** — An interactive digital tabletop storytelling card experience.
-     - Mechanics: 2D box unboxing, 10-slot card back discovery, multi-choice quadrant slicing, and branching narrative front card.
-     - Live Interactive Demo: **[Play Woven Adventures Live](https://spraycan.games/play/)**
-     - Store and Box Edition: **[Woven Adventures Box Set](https://spraycan.games/product/woven-adventures/)**
+2. **Physical Tabletop Board Game Design**
+   - Original physical boxed board games, custom card decks, and component manufacturing.
+   - **Flagship Board Game: [Woven Adventures](https://spraycan.games/product/woven-adventures/)** — A physical boxed tabletop story card game.
+     - Physical Components: Custom box set, 10 numbered card discovery slots, directional quadrant slicing, and branching narrative mechanics.
+     - Physical Box Set: **[Woven Adventures Box Edition](https://spraycan.games/product/woven-adventures/)**
+     - Interactive Web Sampler: **[Play the Web Sampler](https://spraycan.games/play/)**
 
 3. **Brand Identity and Creative Systems**
-   - Logo design, typography systems, vector illustrations, and full corporate style guides.
+   - Hand-drawn brand marks, mascot design, typography systems, vector illustrations, and full corporate style guides.
    - Narrative copywriting, digital strategy, and search footprint optimization.
 
 ---
@@ -34,8 +34,8 @@
 ## Live Ecosystem Showcases
 
 - Agency Headquarters: [https://spraycancreative.com](https://spraycancreative.com)
-- Interactive Story Card: [https://spraycan.games/play/](https://spraycan.games/play/)
-- Storefront and Product Showcase: [https://spraycan.games/product/woven-adventures/](https://spraycan.games/product/woven-adventures/)
+- Physical Board Game Store: [https://spraycan.games/product/woven-adventures/](https://spraycan.games/product/woven-adventures/)
+- Interactive Web Sampler: [https://spraycan.games/play/](https://spraycan.games/play/)
 
 ---
 
