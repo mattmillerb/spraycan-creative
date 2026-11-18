@@ -20,20 +20,22 @@
 
 2. **Interactive Digital Applications & Game Engineering**
    - 2D/3D interactive web experiences, game cards, and digital tabletop simulators.
-   - Flagship Project: **[Woven Adventures](https://spraycan.games/play/)** — an unboxing and interactive storytelling card experience.
-   - Explore the live experience: **[Play Woven Adventures](https://spraycan.games/play/)**.
+   - **Flagship Project: [Woven Adventures](https://spraycan.games/play/)** — An interactive digital tabletop storytelling card experience.
+     - *Mechanics:* 2D box unboxing, 10-slot card back discovery, multi-choice quadrant slicing, and branching narrative front card.
+     - *Live Interactive Demo:* **[Play Woven Adventures Live](https://spraycan.games/play/)**
+     - *Store & Box Edition:* **[Woven Adventures Box Set](https://spraycan.games/product/woven-adventures/)**
 
 3. **Brand Identity & Creative Systems**
    - Logo design, typography systems, vector illustrations, and full corporate style guides.
-   - Narrative copywriting, digital strategy, and local search footprint optimization.
+   - Narrative copywriting, digital strategy, and search footprint optimization.
 
 ---
 
-## 🚀 Flagship Interactive Showcase
+## 🚀 Live Ecosystem Showcases
 
-- **Live Agency Root:** [spraycancreative.com](https://spraycancreative.com)
-- **Interactive Story Card:** [spraycan.games/play](https://spraycan.games/play/)
-- **Storefront & Product Showcase:** [spraycan.games/product/woven-adventures](https://spraycan.games/product/woven-adventures/)
+- **Agency Headquarters:** [https://spraycancreative.com](https://spraycancreative.com)
+- **Interactive Story Card:** [https://spraycan.games/play/](https://spraycan.games/play/)
+- **Storefront & Product Showcase:** [https://spraycan.games/product/woven-adventures/](https://spraycan.games/product/woven-adventures/)
 
 ---
 
