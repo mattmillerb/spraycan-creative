@@ -26,7 +26,7 @@
      - Interactive Web Sampler: **[Play the Web Sampler](https://spraycan.games/play/)**
 
 3. **Brand Identity and Creative Systems**
-   - Hand-drawn brand marks, mascot design, typography systems, vector illustrations, and full corporate style guides.
+   - Hand-drawn brand marks, custom packaging design, typography systems, vector illustrations, and full corporate style guides.
    - Narrative copywriting, digital strategy, and search footprint optimization.
 
 ---
